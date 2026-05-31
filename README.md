@@ -41,4 +41,4 @@ Vira performs 6 checks:
 
 ```bash
 pip install streamlit pandas networkx scipy
-streamlit run poc_app.py
+streamlit run poc_app.py# Update
